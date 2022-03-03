@@ -1,0 +1,1 @@
+Just run com.echo.App in idea or other env.
